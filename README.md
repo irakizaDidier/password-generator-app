@@ -1,3 +1,7 @@
+# Hosted Link
+
+https://irakizadidier.github.io/password-generator-app/
+
 # Password Generator Web Application
 
 This project is a password generator web application that allows users to customize and generate passwords based on specified criteria such as length and character types.
@@ -16,7 +20,3 @@ This project is a password generator web application that allows users to custom
 - **HTML**: Structured the user interface elements and inputs.
 - **CSS**: Styled the application for a modern and visually appealing look.
 - **JavaScript (ES6+)**: Implemented the password generation logic and user interaction functionalities using modern JavaScript features such as arrow functions, template literals, destructuring assignment, classes, let and const variables, default parameters, spread syntax, and rest parameters.
-
-## Hosted Link
-
-https://irakizadidier.github.io/password-generator-app/
